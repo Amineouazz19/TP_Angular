@@ -1,3 +1,6 @@
 [submodule "exo2"]
 	path = exo2
 	url = https://github.com/Amineouazz19/exo-2-Angular.git
+[submodule "exo3"]
+	path = exo3
+	url = https://github.com/Amineouazz19/exo-3-Angular.git
